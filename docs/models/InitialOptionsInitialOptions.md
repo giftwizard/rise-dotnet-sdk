@@ -1,0 +1,11 @@
+# Org.OpenAPITools.Model.InitialOptionsInitialOptions
+Information about the first transaction that initializes a gift card.
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**GiftCardType** | **string** | Type of the gift card being initialized. | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
